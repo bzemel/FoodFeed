@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Food Feed</string>
+    <string name="update">Update Feed</string>
+    <string name="no_data_available">No content found</string>
+    <string name="no_title_available">No title found</string>
+    <string name="no_connection">No internet connection</string>
+</resources>
